@@ -7,7 +7,7 @@ export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: "static",
   router: {
-    base: "/Websort/"
+    base: "/Websort/docs/"
   },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
